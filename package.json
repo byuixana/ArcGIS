@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "satellite.js": "^5.0.0"
+  },
+  "name": "arcgis",
+  "version": "1.0.0",
+  "main": "functions_workshop.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
